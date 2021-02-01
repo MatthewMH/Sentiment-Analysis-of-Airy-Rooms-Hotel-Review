@@ -1,2 +1,2 @@
 # Arkavidia-7.0
-Arkavidia 7.0 Datavidia Notebook
+Arkavidia 7.0 final notebook of text mining. 
